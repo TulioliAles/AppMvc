@@ -101,10 +101,10 @@ D:\ADM\Estudo_Dotnet_Framework\AppFuncional\AppMvc\bin\Microsoft.Owin.Security.T
 D:\ADM\Estudo_Dotnet_Framework\AppFuncional\AppMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\ADM\Estudo_Dotnet_Framework\AppFuncional\AppMvc\bin\Microsoft.Owin.Security.OAuth.xml
 D:\ADM\Estudo_Dotnet_Framework\AppFuncional\AppMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\ADM\Estudo_Dotnet_Framework\AppFuncional\AppMvc\obj\Debug\AppMvc.csprojAssemblyReference.cache
 D:\ADM\Estudo_Dotnet_Framework\AppFuncional\AppMvc\obj\Debug\AppMvc.csproj.CoreCompileInputs.cache
 D:\ADM\Estudo_Dotnet_Framework\AppFuncional\AppMvc\obj\Debug\AppMvc.csproj.CopyComplete
 D:\ADM\Estudo_Dotnet_Framework\AppFuncional\AppMvc\obj\Debug\AppMvc.dll
 D:\ADM\Estudo_Dotnet_Framework\AppFuncional\AppMvc\obj\Debug\AppMvc.pdb
 D:\ADM\Estudo_Dotnet_Framework\AppFuncional\AppMvc\obj\Debug\AppMvc.Migrations.InitialCreate.resources
 D:\ADM\Estudo_Dotnet_Framework\AppFuncional\AppMvc\obj\Debug\AppMvc.csproj.GenerateResource.cache
+D:\ADM\Estudo_Dotnet_Framework\AppFuncional\AppMvc\obj\Debug\AppMvc.csprojAssemblyReference.cache
